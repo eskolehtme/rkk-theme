@@ -25,6 +25,18 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/build/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/rkk-theme/build/node_modules",
+		"oF": 0
+		},
+	"/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/rkk-theme/node_modules",
+		"oF": 0
+		},
 	"/rkk-theme": {
 		"ft": 65536,
 		"oA": 1,
@@ -119,7 +131,7 @@
 		"oAP": "/rkk-theme/images/2003kanuutamas.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/2005seltsijoul.jpeg": {
@@ -130,7 +142,7 @@
 		"oAP": "/rkk-theme/images/2005seltsijoul.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/2006kulajoulupuu.jpeg": {
@@ -141,7 +153,7 @@
 		"oAP": "/rkk-theme/images/2006kulajoulupuu.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/2007Karula-copy.jpeg": {
@@ -152,7 +164,7 @@
 		"oAP": "/rkk-theme/images/2007Karula-copy.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/2007Kulajoulupuu.jpeg": {
@@ -163,7 +175,7 @@
 		"oAP": "/rkk-theme/images/2007Kulajoulupuu.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/2008virumaa.jpeg": {
@@ -174,7 +186,7 @@
 		"oAP": "/rkk-theme/images/2008virumaa.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/2010piirisaare.jpeg": {
@@ -185,7 +197,7 @@
 		"oAP": "/rkk-theme/images/2010piirisaare.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/apple-touch-icon.png": {
@@ -195,7 +207,7 @@
 		"oAP": "/rkk-theme/images/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -206,7 +218,7 @@
 		"oAP": "/rkk-theme/images/bg.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -217,7 +229,7 @@
 		"oAP": "/rkk-theme/images/eas.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -228,7 +240,7 @@
 		"oAP": "/rkk-theme/images/favicon.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -240,7 +252,7 @@
 		"oAP": "/rkk-theme/images/hambad.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kallavere_kula.png": {
@@ -250,7 +262,7 @@
 		"oAP": "/rkk-theme/images/kallavere_kula.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -262,7 +274,7 @@
 		"oAP": "/rkk-theme/images/kevad-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-02.jpg": {
@@ -273,7 +285,7 @@
 		"oAP": "/rkk-theme/images/kevad-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-03.jpg": {
@@ -284,7 +296,7 @@
 		"oAP": "/rkk-theme/images/kevad-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-04.jpg": {
@@ -295,7 +307,7 @@
 		"oAP": "/rkk-theme/images/kevad-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-05.jpg": {
@@ -306,7 +318,7 @@
 		"oAP": "/rkk-theme/images/kevad-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-06.jpg": {
@@ -317,7 +329,7 @@
 		"oAP": "/rkk-theme/images/kevad-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-07.jpg": {
@@ -328,7 +340,7 @@
 		"oAP": "/rkk-theme/images/kevad-07.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-08.jpg": {
@@ -339,7 +351,7 @@
 		"oAP": "/rkk-theme/images/kevad-08.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-09.jpg": {
@@ -350,7 +362,7 @@
 		"oAP": "/rkk-theme/images/kevad-09.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-10.jpg": {
@@ -361,7 +373,7 @@
 		"oAP": "/rkk-theme/images/kevad-10.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-11.jpg": {
@@ -372,7 +384,7 @@
 		"oAP": "/rkk-theme/images/kevad-11.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-12.jpg": {
@@ -383,7 +395,7 @@
 		"oAP": "/rkk-theme/images/kevad-12.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kevad-13.jpg": {
@@ -394,7 +406,7 @@
 		"oAP": "/rkk-theme/images/kevad-13.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kihnuriba.jpeg": {
@@ -405,7 +417,7 @@
 		"oAP": "/rkk-theme/images/kihnuriba.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kivi.jpg": {
@@ -416,7 +428,7 @@
 		"oAP": "/rkk-theme/images/kivi.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kork.jpeg": {
@@ -427,7 +439,7 @@
 		"oAP": "/rkk-theme/images/kork.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/kott.jpeg": {
@@ -438,7 +450,7 @@
 		"oAP": "/rkk-theme/images/kott.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/loikaja.jpeg": {
@@ -449,7 +461,7 @@
 		"oAP": "/rkk-theme/images/loikaja.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/mikser.jpeg": {
@@ -460,7 +472,7 @@
 		"oAP": "/rkk-theme/images/mikser.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/olilamp.jpeg": {
@@ -471,7 +483,7 @@
 		"oAP": "/rkk-theme/images/olilamp.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/omblusmasin.jpeg": {
@@ -482,7 +494,7 @@
 		"oAP": "/rkk-theme/images/omblusmasin.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/pesurull.jpeg": {
@@ -493,7 +505,7 @@
 		"oAP": "/rkk-theme/images/pesurull.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/pitskruvi.jpeg": {
@@ -504,7 +516,7 @@
 		"oAP": "/rkk-theme/images/pitskruvi.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/raadium.jpeg": {
@@ -515,7 +527,7 @@
 		"oAP": "/rkk-theme/images/raadium.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/rootsi_kallavere_kula_muuseum.png": {
@@ -525,7 +537,7 @@
 		"oAP": "/rkk-theme/images/rootsi_kallavere_kula_muuseum.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -536,7 +548,7 @@
 		"oAP": "/rkk-theme/images/rootsi_kallavere_kula_selts.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -548,7 +560,7 @@
 		"oAP": "/rkk-theme/images/seltsiriba1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/seltsiriba2.jpeg": {
@@ -559,7 +571,7 @@
 		"oAP": "/rkk-theme/images/seltsiriba2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/soel.jpeg": {
@@ -570,7 +582,7 @@
 		"oAP": "/rkk-theme/images/soel.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/staticmap.gif": {
@@ -579,7 +591,7 @@
 		"oA": 0,
 		"oAP": "/rkk-theme/images/staticmap.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/source/images/talv-01.jpeg": {
 		"ft": 16384,
@@ -589,7 +601,7 @@
 		"oAP": "/rkk-theme/images/talv-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-02.jpeg": {
@@ -600,7 +612,7 @@
 		"oAP": "/rkk-theme/images/talv-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-03.jpeg": {
@@ -611,7 +623,7 @@
 		"oAP": "/rkk-theme/images/talv-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-04.jpeg": {
@@ -622,7 +634,7 @@
 		"oAP": "/rkk-theme/images/talv-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-05.jpeg": {
@@ -633,7 +645,7 @@
 		"oAP": "/rkk-theme/images/talv-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-06.jpeg": {
@@ -644,7 +656,7 @@
 		"oAP": "/rkk-theme/images/talv-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-07.jpeg": {
@@ -655,7 +667,7 @@
 		"oAP": "/rkk-theme/images/talv-07.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-08.jpeg": {
@@ -666,7 +678,7 @@
 		"oAP": "/rkk-theme/images/talv-08.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv-09.jpeg": {
@@ -677,7 +689,7 @@
 		"oAP": "/rkk-theme/images/talv-09.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv_01.jpg": {
@@ -688,7 +700,7 @@
 		"oAP": "/rkk-theme/images/talv_01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv_02.jpg": {
@@ -699,7 +711,7 @@
 		"oAP": "/rkk-theme/images/talv_02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv_03.jpg": {
@@ -710,7 +722,7 @@
 		"oAP": "/rkk-theme/images/talv_03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/talv_04.jpg": {
@@ -721,7 +733,7 @@
 		"oAP": "/rkk-theme/images/talv_04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/triikraud.jpeg": {
@@ -732,7 +744,7 @@
 		"oAP": "/rkk-theme/images/triikraud.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/images/tsoon_com.png": {
@@ -742,7 +754,7 @@
 		"oAP": "/rkk-theme/images/tsoon_com.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -754,7 +766,7 @@
 		"oAP": "/rkk-theme/images/velg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 90
 		},
 	"/source/index.php": {
@@ -764,39 +776,6 @@
 		"oA": 0,
 		"oAP": "/rkk-theme/index.php",
 		"oF": 0
-		},
-	"/source/javascripts/jquery.cycle.min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/rkk-theme/javascripts/.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/javascripts/public.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/rkk-theme/javascripts/.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/javascripts/public.min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/rkk-theme/javascripts/.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
 		},
 	"/source/links.php": {
 		"cB": 0,
@@ -837,7 +816,7 @@
 		"oAP": "/rkk-theme/screenshot.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 95
 		},
@@ -865,16 +844,6 @@
 		"oAP": "/rkk-theme/single.php",
 		"oF": 0
 		},
-	"/source/style.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "/rkk-theme/.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/source/style.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -885,38 +854,8 @@
 		"oA": 0,
 		"oAP": "/rkk-theme/style.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 2,
 		"uL": 1
-		},
-	"/source/stylesheets/960.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "/rkk-theme/stylesheets/.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/source/stylesheets/reset.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "/rkk-theme/stylesheets/.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/source/stylesheets/text.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "/rkk-theme/stylesheets/.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"/source/sub_frontpage.php": {
 		"cB": 0,
@@ -936,7 +875,8 @@
 	"displayValue": "rkk-theme",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby",
-	"iconImageWasSetByUser": 1
+	"iconImageWasSetByUser": 1,
+	"lastBuiltDate": 606557532.51786304
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2939,7 +2879,7 @@
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 3,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 1,
 		"useLibsass": 1
