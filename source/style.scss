@@ -8,13 +8,6 @@ Author URI: http://tsoon.com/
 
 @import 'bourbon';
 
-@font-face {
-	font-family:'Cardo';
-	font-style:normal;
-	font-weight:400;
-	src:local(Cardo),local(Cardo-Regular),url(http://themes.googleusercontent.com/static/fonts/cardo/v4/jRlnAkkwSO-sHIk6eXBl6KCWcynf_cDxXwCLxiixG1c.woff) format("woff");
-}
-
 body {
 	background-image:url(images/bg.png);
 	background-position:center top;
@@ -35,7 +28,7 @@ a {
 h1,h2,h3,h4,h5,h6 {
 	font-style:normal;
 	font-weight:400;
-	font-family:'Cardo',arial,serif;
+	font-family:'',arial,serif;
 }
 
 h1 {
@@ -574,7 +567,7 @@ it's only a template design
 .ngg-album-desc {
 	font-style:normal;
 	font-weight:400;
-	font-family:'Cardo',arial,serif;
+	font-family:'',arial,serif;
 }
 
 .ngg-thumbnail {

@@ -25,12 +25,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/build/node_modules": {
-		"ft": 65536,
-		"oA": 2,
-		"oAP": "/rkk-theme/build/node_modules",
-		"oF": 0
-		},
 	"/node_modules": {
 		"ft": 65536,
 		"oA": 2,
@@ -51,36 +45,12 @@
 		"oAP": "/rkk-theme/404.php",
 		"oF": 0
 		},
-	"/source/archive.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/rkk-theme/archive.php",
-		"oF": 0
-		},
-	"/source/archives.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/rkk-theme/archives.php",
-		"oF": 0
-		},
 	"/source/books_frontpage.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/rkk-theme/books_frontpage.php",
-		"oF": 0
-		},
-	"/source/comments.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/rkk-theme/comments.php",
 		"oF": 0
 		},
 	"/source/footer.php": {
@@ -819,14 +789,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 95
-		},
-	"/source/search.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/rkk-theme/search.php",
-		"oF": 0
 		},
 	"/source/sidebar.php": {
 		"cB": 0,

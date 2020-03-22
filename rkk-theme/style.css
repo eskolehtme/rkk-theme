@@ -8,15 +8,13 @@ Author URI: http://tsoon.com/
 */
 /* stylelint-disable order/properties-alphabetical-order */
 /* stylelint-enable */
-@font-face { font-family: 'Cardo'; font-style: normal; font-weight: 400; src: local(Cardo), local(Cardo-Regular), url(http://themes.googleusercontent.com/static/fonts/cardo/v4/jRlnAkkwSO-sHIk6eXBl6KCWcynf_cDxXwCLxiixG1c.woff) format("woff"); }
-
 body { background-image: url(images/bg.png); background-position: center top; background-repeat: no-repeat; font-family: "Trebuchet MS",Helvetica,Arial,sans-serif; font-size: 12px; color: #333; }
 
 a { text-decoration: none; color: #666; }
 
 a:hover { color: #000; }
 
-h1, h2, h3, h4, h5, h6 { font-style: normal; font-weight: 400; font-family: 'Cardo',arial,serif; }
+h1, h2, h3, h4, h5, h6 { font-style: normal; font-weight: 400; font-family: '',arial,serif; }
 
 h1 { font-size: 30px; }
 
@@ -223,7 +221,7 @@ it's only a template design
 
 .ngg-albumtitle { text-align: left; font-weight: 700; margin: 0; padding: 0; font-size: 1.4em; margin-bottom: 10px; }
 
-.ngg-album-desc { font-style: normal; font-weight: 400; font-family: 'Cardo',arial,serif; }
+.ngg-album-desc { font-style: normal; font-weight: 400; font-family: '',arial,serif; }
 
 .ngg-thumbnail { float: left; margin-right: 12px; }
 
